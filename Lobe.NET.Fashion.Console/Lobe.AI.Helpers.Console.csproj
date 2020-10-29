@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="lobe.ImageSharp" Version="1.0.8" />
+    <PackageReference Include="lobe.Onnx" Version="1.0.8" />
+    <PackageReference Include="Microsoft.ML.OnnxRuntime" Version="1.5.2" />
+  </ItemGroup>
+
+</Project>
