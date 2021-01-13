@@ -2,7 +2,7 @@
 This is Azure Function and Console app to use Lobe AI Models.
 
 # Step by step instructions
-(Using Lobe models as APIs in Azure Functions)[https://cloudblogs.microsoft.com/industry-blog/en-gb/technetuk/2020/11/10/using-lobe-models-as-apis-in-azure-functions/]
+[Using Lobe models as APIs in Azure Functions](https://cloudblogs.microsoft.com/industry-blog/en-gb/technetuk/2020/11/10/using-lobe-models-as-apis-in-azure-functions/)
 
 # What is Lobe?
 Lobe is a free client app that helps any user to bring machine learning ideas into reality. Just show it examples of what you want it to learn, and it automatically trains a custom machine learning model that can be shipped to your app. You can also export those models to be used on any platform.
